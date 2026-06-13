@@ -1,0 +1,1 @@
+{"name":"Roche","short_name":"Roche","description":"Roche","start_url":"./","display":"standalone","background_color":"#ffffff","theme_color":"#42b883","lang":"en","scope":"./","icons":[{"src":"pwa-icon.png","sizes":"192x192","type":"image/png"},{"src":"pwa-icon.png","sizes":"512x512","type":"image/png"}]}
